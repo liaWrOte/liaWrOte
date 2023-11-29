@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Sandie, I live in Rennes, France<br><br>- 🔭 I’m working as a web developer in artwaï, a web agency with a storng focus on performance and accessability<br>- 📚 I'm currently learning three.js, Blender<br>- ⚡ In my free time I make colourful oil paintings, and I like to take a walk in the forest with my crazy dog, Marla</p>
+<p align="left">I'm Sandie, I live in Rennes, France<br><br>- 🔭 I’m working as a web developer in artwaï, a web agency with a strong focus on performance and accessibility<br>- 📚 I'm currently learning three.js, Blender<br>- ⚡ In my free time I make colourful oil paintings, and I like to take a walk in the forest with my crazy dog, Marla</p>
 
 ###
 
