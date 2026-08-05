@@ -12,28 +12,38 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liaWrOte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=liaWrOte&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<h1 align="center">Salut 👋 Je suis Sandrine</h1>
+
+<p align="center">
+  <strong>Développeuse Web Frontend | Accessibilité & Performance | Interfaces Créatives</strong><br>
+  Bretagne 🇫🇷 → Genève 🇨🇭
+</p>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="left">👩‍💻 À Propos</h3>
+
+Je suis développeuse web avec **6 ans d'expérience**, spécialisée en **accessibilité web (RGAA/WCAG)**, **performance (Core Web Vitals)** et développement **WordPress**.
+
+Je conçois des expériences web rigoureuses, durables et créatives — en mettant l'accessibilité au cœur de chaque projet.
+
+- 🏢 Actuellement chez **Artwaï** (agence web, Rennes) — WordPress, accessibilité, performance
+- 🎓 Formation : UX Design (Greta), Web Dev & Mobile (O'Clock), OPQUAST certification
+- 🇫🇷 🇬🇧 Bilingue français/anglais (B1/B2)
+- 🚀 Intéressée par : headless WordPress, next.js, interfaces immersives & animations créatives
+- 🎨 En parallèle : peinture à l'huile, jardinage syncrétique, design web créatif
+- 🐕 Propriétaire d'une chienne adorable nommée Marla
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🛠 Stack & Compétences</h3>
 
-###
-
-<p align="left">I'm Sandie, I live in Rennes, France<br><br>- 🔭 I’m working as a web developer in artwaï, a web agency with a strong focus on performance and accessibility<br>- 📚 I'm currently learning three.js, Blender<br>- ⚡ In my free time I make colourful oil paintings, and I like to take a walk in the forest with my crazy dog, Marla</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+**Frontend :** HTML5 • CSS3/SCSS • JavaScript/TypeScript • React • Angular  
+**Backend/CMS :** PHP • WordPress • ACF  
+**Outils & Libs :** Vite • Webpack • Gulp • Three.js • GSAP  
+**Design :** Figma • Adobe Suite (Illustrator, XD, Photoshop, After Effects)  
+**Versioning & Collab :** Git • GitHub • GitLab  
+**Spécialités :** RGAA/WCAG • Web Performance • Eco-design (RGESN)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -44,9 +54,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -54,19 +66,34 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liaWrOte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=liaWrOte&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">💡 Projets & Contributions</h3>
+
+Mon travail professionnel chez Artwaï (15+ sites WordPress, audits d'accessibilité) se trouve sur un compte d'agence pour des raisons de confidentialité client.
+
+Sur ce compte, vous trouverez mes **projets personnels, explorations créatives et contributions open source** — notamment autour d'animations web, accessibilité et performance.
+
+Consultez mon [CV](https://github.com/liaWrOte) pour les détails complets de mon expérience professionnelle.
+
+###
+
+<h3 align="left">📫 Contactez-moi</h3>
+
+- **LinkedIn** : [sandrinemze](https://www.linkedin.com/in/sandrinemze/)
+- **Email** : sandrine.mze@gmail.com
+- **Portfolio** : En construction 🚀
