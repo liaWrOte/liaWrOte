@@ -88,8 +88,6 @@ Mon travail professionnel chez Artwaï (15+ sites WordPress, audits d'accessibil
 
 Sur ce compte, vous trouverez mes **projets personnels, explorations créatives et contributions open source** — notamment autour d'animations web, accessibilité et performance.
 
-Consultez mon [CV](https://github.com/liaWrOte) pour les détails complets de mon expérience professionnelle.
-
 ###
 
 <h3 align="left">📫 Contactez-moi</h3>
