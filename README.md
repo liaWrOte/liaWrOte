@@ -94,7 +94,7 @@ Sur ce compte, vous trouverez mes **projets personnels, explorations créatives 
 
 - **LinkedIn** : [sandrinemze](https://www.linkedin.com/in/sandrinemze/)
 - **Email** : sandrine.mze@gmail.com
-- **Portfolio** : En construction 🚀
+- **Portfolio** : <a href="https://sandrinemze.netlify.app/" target="_blank"><🔥 Ici 🔥 </a>
 
 <img width="100%" height="0" src="">
   <div align="center">
@@ -193,4 +193,4 @@ On this account, you'll find my **personal projects, creative explorations, and 
 
 - **LinkedIn**: [sandrinemze](https://www.linkedin.com/in/sandrinemze/)
 - **Email**: sandrine.mze@gmail.com
-- **Portfolio**: Under construction 🚀
+- **Portfolio**:  <a href="https://sandrinemze.netlify.app/" target="_blank"><🔥 Ici 🔥</a>
